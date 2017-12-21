@@ -1,0 +1,14 @@
+Fall,Wetter, Temperatur, Feuchtigkeit, Wind, spielen
+1,sonnig,25,85,ja,ja
+2,regnerisch,6,80,ja,nein
+3,sonnig,21,90,nein,nein
+4,sonnig,27,80,nein,ja
+5,regnerisch,3,90,ja,nein
+6,regnersich,5,80,ja,nein
+7,sonnig,20,80,nein,ja
+8,bewoelkt,10,80,nein,ja
+9,bewoelkt,20,80,nein,ja
+10,sonnig,40,75,nein,nein
+11,regnerisch,3,90,ja,nein
+12,regnerisch,5,75,ja,nein
+13,sonnig,20,80,nein,ja
